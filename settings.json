@@ -21,7 +21,7 @@
       "enabled": true,
       "password": "Slobos"
     },
-    "anti-afk": {false
+    "anti-afk": {
       "enabled": true,
       "sneak": true
     },
