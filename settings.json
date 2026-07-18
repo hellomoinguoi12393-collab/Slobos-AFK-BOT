@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Vương Ngọc Nhung",
     "password": "",
     "type": "offline"
   },
@@ -21,7 +21,7 @@
       "enabled": true,
       "password": "Slobos"
     },
-    "anti-afk": {
+    "anti-afk": {false
       "enabled": true,
       "sneak": true
     },
