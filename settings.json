@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Vương Ngọc Nhung",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "koangian.aternos.me",
